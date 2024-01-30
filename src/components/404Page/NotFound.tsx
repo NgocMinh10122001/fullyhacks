@@ -7,9 +7,9 @@ const NotFound = () => {
     <>
       <GenericNavBar />
       <div className="flex flex-col items-center w-full justify-center h-full text-purple_main mt-10 font-rubik">
-        <p className="text-xl md:text-xxl font-semibold text-center">
+        <p className="text-xl md:text-xxl font-semibold texsadsdsadsadsat-center">
           404 Page Not Found :({' '}
-        </p>
+        </p>d
         <button className="md:text-lg p-2 mt-10 apply-btn">
           <Link href={'/'}>Back to home</Link>
         </button>
